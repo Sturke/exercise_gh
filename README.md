@@ -28,5 +28,5 @@ This project is used by the following people. Add your name if you used this too
  - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Markdown tutorial](https://www.markdowntutorial.com/)
+ - [A useful Markdown tutorial](https://www.markdowntutorial.com/)
 
